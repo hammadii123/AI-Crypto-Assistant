@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+openai-agents
+httpx
+pandas
+numpy
+altair
+
